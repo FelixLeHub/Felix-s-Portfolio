@@ -2,6 +2,8 @@
 
 ### Portfolio Project 1: Hotel Dashboard
 ##### SQL, Power BI
+
+Dataset: Hotel_Revenue.xlsx
 Question Objectives
 1. Is revenue growing year by year?
 2. Should the parking lot space be increased?
@@ -9,3 +11,4 @@ Question Objectives
 
 ### Portfolio Project 2: Customer Segmentation
 ##### Python
+Dataset: Mall_Customers.csv
