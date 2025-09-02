@@ -15,6 +15,7 @@ Question Objectives
 Dataset: Mall_Customers.csv
 
 Code: [Customer_Segmentation.ipynb](Customer_Segmentation.ipynb)
+
 Data: [Mall_Customers.csv](Mall_Customers.csv)
 
 Objective: Identify the most important shopping group based on age, income, and shopping score to assist the marketing team in forming a marketing strategy.
