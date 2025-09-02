@@ -1,14 +1,37 @@
 # Felix's Analysis Portfolio
 
+## About
+
+## Table of Contents
+- About
+- Portfolio Projects:
+  - Power BI, SQL
+    - [Portfolio Project 1: Hotel Dashboard](Portfolio Project 2: KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign)
+      
+  - Python
+    - Portfolio Project 2: KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
+
+## Portfolio Projects
+
 ### Portfolio Project 1: Hotel Dashboard
-##### SQL, Power BI
 
-Dataset: Hotel_Revenue.xlsx
+**Skills:** Data Visualization, Dashboards
 
-Question Objectives
+**Tools:** Power BI, Microsoft SQL (SSMS)
+
+**Code:** 
+
+**Dataset:** Hotel_Revenue.xlsx
+
+**Objective:** ...
 1. Is revenue growing year by year?
 2. Should the parking lot space be increased?
 3. What trends can be seen from the data?
+
+**Description:**
+
+**Results:**
+- jkl
 
 ### Portfolio Project 2: KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
 
@@ -18,7 +41,7 @@ Question Objectives
 
 **Code:** [Customer_Segmentation.ipynb](Customer_Segmentation.ipynb)
 
-**Data:** [Mall_Customers.csv](Mall_Customers.csv)
+**Dataset:** [Mall_Customers.csv](Mall_Customers.csv)
 
 **Objective:** Identify the most important shopping group based on age, income, and shopping score to assist the marketing team in forming a marketing strategy.
 
