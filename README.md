@@ -11,7 +11,10 @@ Question Objectives
 3. What trends can be seen from the data?
 
 ### Portfolio Project 2: Customer Segmentation
-##### Python
+
+**Skills:** Exploratory Data Analysis, KMean Algorithm, Cluster Analysis (Univariate, Bivariate, Multivariate clusters)
+
+**Tools:** Python, Pandas, Seaborn, Matplotlib, SKlearn
 
 **Code:** [Customer_Segmentation.ipynb](Customer_Segmentation.ipynb)
 
@@ -21,9 +24,7 @@ Question Objectives
 
 **Description:** The project focused on analyzing a dataset of mall customers. The dataset contains columns for CustomerID, Gender, Age, Annual Income, and Spending Score. This project involved loading the CSV file in Python to perform exploratory data analysis (EDA) using histograms, KDE plots, box plots, and scatter plots. Then, using KMean algorithm, I perform cluster analysis for univariate, bivariate, and multivariate variables to complete the objective. Creating summary statistics and visuals to identify the details of each cluster.
 
-**Skills:** Exploratory Data Analysis, KMean Algorithm, Cluster Analysis (Univariate, Bivariate, Multivariate clusters)
 
-**Tools:** Python, Pandas, Seaborn, Matplotlib, SKlearn
 
 **Results: **
 - Identified the most important cluster being the one with **high annual income and high spending scores**. This cluster has a **female majority**, meaning the marketing campaign should target products popular to this demographic to attract them.
