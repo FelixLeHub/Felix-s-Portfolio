@@ -26,6 +26,6 @@ Question Objectives
 
 
 
-**Results: **
+**Results:**
 - Identified the most important cluster being the one with **high annual income and high spending scores**. This cluster has a **female majority**, meaning the marketing campaign should target products popular to this demographic to attract them.
 - There is also an opportunity to market popular products on sale for the cluster with low annual income but high spending score.
