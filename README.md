@@ -22,7 +22,8 @@
 
 **Code:** 
 - SQL: HotelRevenue_Dataset.sql
-- Dashboard: HotelRevenue_Dashboard.png
+- Dashboard: Hotel_Revenue_Dashboard.pbix
+- Dashboard Picture: HotelRevenue_Dashboard.png
 
 **Dataset:** Revenue_History.xlsx
 
@@ -63,7 +64,7 @@
 
 **Code:** 
 - CustomerCall_Clean.ipynb
-- Hotel_Booking_Demand.ipynb
+- Hotel_Booking_Clean.ipynb
 
 **Dataset:** 
 - Customer_List.xlsx
@@ -84,7 +85,8 @@
 
 **Code:**
 - SQL: Absentee_Datasheet.sql
-- Power BI: Absentee_Dashboard.pbix
+- Dashboard: Absentee_Dashboard.pbix
+- Dashboard Picture: Absentee_Dashboard.png
 
 **Dataset:**
 - Absenteeism_at_work.csv
@@ -105,8 +107,9 @@
 **Tools:** Power BI, Microsoft SQL Server Management Studio
 
 **Code:**
-- SQL: Project6.sql
-- Power BI: BikeShop_pbix
+- SQL: Bikeshop_datasheet.sql
+- Dashboard: BikeShop_Dashboard.pbix
+- Dashboard Picture: BikeShop_Dashboard.png
 
 **Dataset:** 
 - bike_share_yr_0.csv
@@ -143,13 +146,15 @@ your pricing strategy without committing fully to a price that might turn out to
 
 **Code:** 
 - SQL: ProjectOverviewDashboard_Datasheet.sql
-- Power BI: ProjectOverviewDashboard.pbix
+- Dashboard: ProjectOverviewDashboard.pbix
+- DashboardPicture: ProjectOverviewDashboard.png
 
 **Dataset:**
 - Completed_projects.csv
 - Departments.csv
 - Employees.csv
 - Head_shots.csv
+- Project_Assignments.csv
 - Projects.csv
 - Upcoming projects.csv
 
