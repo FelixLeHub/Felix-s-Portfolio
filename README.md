@@ -22,7 +22,7 @@
 
 **Code:** 
 - SQL: [HotelRevenue_Dataset.sql](HotelRevenue_Dataset.sql)
-- Dashboard: [Hotel_Revenue_Dashboard.pbix](Hotel_Revenue_Dashboard.pbix)
+- Dashboard: [Hotel_Revenue_Dashboards.pbix](Hotel_Revenue_Dashboards.pbix)
 - Dashboard Picture: [HotelRevenue_Dashboard.png](HotelRevenue_Dashboard.png)
 
 **Dataset:** Revenue_History.xlsx
@@ -84,7 +84,7 @@
 **Tools:** Power BI, Microsoft SQL Server Management Studio
 
 **Code:**
-- SQL: [Absentee_Datasheet.sql](Absentee_Datasheet.sql)
+- SQL: [Absentee_Dataset.sql](Absentee_Datasheet.sql)
 - Dashboard: [Absentee_Dashboard.pbix](Absentee_Dashboard.pbix)
 - Dashboard Picture: [Absentee_Dashboard.png](Absentee_Dashboard.png)
 
@@ -156,7 +156,7 @@ your pricing strategy without committing fully to a price that might turn out to
 - [Head_shots.csv](Head_shots.csv)
 - [Project_Assignments.csv](Project_Assignments.csv)
 - [Projects.csv](Projects.csv)
-- [Upcoming projects.csv](Upcoming projects.csv)
+- [Upcoming_projects.csv](Upcoming_projects.csv)
 
 **Description:** This project focuses on creating visual dashboards for analysis. It requires organizing and combining the 5 CSV files into one structured table accessible for reporting and data visualization. The goal of the dashboard i to help manage the workforce, to better understand the financial risks of each project, and to monitor the project health more effectively.
 **Note:** The department budgets are set at 2-year intervals.
