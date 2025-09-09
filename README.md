@@ -152,7 +152,7 @@ your pricing strategy without committing fully to a price that might turn out to
 **Dataset:**
 - [completed_projects.csv](completed_projects.csv)
 - [departments.csv](departments.csv)
-- [employees.csv](Eemployees.csv)
+- [employees.csv](employees.csv)
 - [Head_Shots.csv](Head_Shots.csv)
 - [project_assignments.csv](project_assignments.csv)
 - [projects.csv](projects.csv)
