@@ -84,7 +84,7 @@
 **Tools:** Power BI, Microsoft SQL Server Management Studio
 
 **Code:**
-- SQL: [Absentee_Dataset.sql](Absentee_Datasheet.sql)
+- SQL: [Absentee_dataset.sql](Absentee_dataset.sql)
 - Dashboard: [Absentee_Dashboard.pbix](Absentee_Dashboard.pbix)
 - Dashboard Picture: [Absentee_Dashboard.png](Absentee_Dashboard.png)
 
