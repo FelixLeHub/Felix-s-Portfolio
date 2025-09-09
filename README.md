@@ -5,16 +5,16 @@
 ## Table of Contents
 - About
 - Portfolio Projects:
-  - Portfolio Project 1: Hotel Revenue Dashboard
-  - Portfolio Project 2: KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
-  - Portfolio Project 3: Data Cleaning
-  - Portfolio Project 4: HR Analytics: Absenteeism Dashboard
-  - Portfolio Project 5: Bike Rental Store Dashboard
-  - Portfolio Project 6: Project Overview Dashboard
+  - Hotel Revenue Dashboard
+  - KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
+  - Data Cleaning
+  - HR Analytics: Absenteeism Dashboard
+  - Bike Rental Store Dashboard
+  - Project Overview Dashboard
 
 ## Portfolio Projects
 
-### Portfolio Project 1: Hotel Power BI Dashboard
+### Hotel Power BI Dashboard
 
 **Skills:** Data Visualization, Dashboards
 
@@ -36,7 +36,7 @@
 **Results:** The dashboard reveals that revenue was increasing year by year, except in 2020 because the year hasn't ended yet. Although there is a trend indicating car space usage going up, the year to year increase are gradual and the hotel won't need to increase the parking space.
    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Portfolio Project 2: KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
+### KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
 
 **Skills:** Exploratory Data Analysis, KMeans Algorithm, Cluster Analysis (Univariate, Bivariate, Multivariate clusters)
 
@@ -55,7 +55,7 @@
 - There is also an opportunity to market popular products on sale for the cluster with low annual income but high spending score.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Portfolio Project 3: Data Cleaning 2 Datasets
+### Data Cleaning 2 Datasets
 
 **Skills:** Data Cleaning
 
@@ -76,7 +76,7 @@
 **Results:** Cleaned data ready for analysis
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Portfolio Project 4: HR Analytics: Absenteeism Dashboard
+### HR Analytics: Absenteeism Dashboard
 
 **Skills:** Data Visualization, Dashboards
 
@@ -98,7 +98,7 @@
 **Results** What we noticed was that workers are more likely to take a leave of absence on a Monday, especially during the Spring time. Most of whom are junior position staff members. However, this can be due to the higher number of junior positions as compared to middle and senior management positions. HR should be prepared for a shortage in staff during this time and prepare accordingly.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Portfolio Project 5: Bike Rental Store Dashboard
+### Bike Rental Store Dashboard
 
 **Skills:** Power BI Dashboard, SQL
 
@@ -116,8 +116,23 @@
 **Description:** The project consists of 3 CSV files that showcase the bike rental store's revenue for the 1st and 2nd years, as well as the cost for operating the service. Using SQL, the 3 files were joined together into a single table but only with the necessary columns needed to create the revenue dashboard. The table is then imported in Power BI for data visualization purposes.
 
 **Objective:** Create a visualization dashboard to understand the sales revenue of he bike rental service
+- Can the service increase its service pricing?
 
-**Results:**
+**Results:** 
+From the dashboard, the data is telling us that even though the service price had increased from 2021 - 2022, demand also increased correspondingly at an even higher percentage increase. This gives us a positive elasticity, meaning that the rental service can increase pricing for the following year as well.
+
+Conservative increase: Considering the substantial increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop.
+An increase in the range of 10-15% could test the market's response without risking a significant loss of customers.
+Price Setting:
+- If the price in 2022 was $4.99, a 10% increase would make the new price around $5.49
+- A 15% increase would set the price at approximately $5.74
+
+Recommendation Strategy:
+- Market Analysis: Conduct further market research to understand customer satisfaction, potential competitive changes, and the overall economic environment. This can guide whether
+leaning towards the lower or higher end of the suggested increase.
+- Segmented Pricing Strategy: Consider different pricing for casual vs registered users, as they may have different price sensitivities.
+- Monitor and Adjust: Implement the new prices, but be ready to adjust based on immediate customer feedback and sales data. Monitoring closely will allow you to fine-tune
+your pricing strategy without committing fully to a price that might turn out to be too high.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Portfolio Project 6: Project Overview Dashboard
