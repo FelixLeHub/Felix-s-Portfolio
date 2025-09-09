@@ -135,20 +135,36 @@ leaning towards the lower or higher end of the suggested increase.
 your pricing strategy without committing fully to a price that might turn out to be too high.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Portfolio Project 6: Project Overview Dashboard
+### Project Overview Dashboard
 
-**Skills:** Power Bi Dashboard, SQL
+**Skills:** Power BI Dashboard, SQL, Data Organization
 
 **Tools:**
 
 **Code:** 
-- SQL: Project7.sql
-- Power Bi: Project7_ProjectOverviewDashboard.pbix
+- SQL: ProjectOverviewDashboard_Datasheet.sql
+- Power BI: ProjectOverviewDashboard.pbix
 
-**Dataset:** 
+**Dataset:**
+- Completed_projects.csv
+- Departments.csv
+- Employees.csv
+- Head_shots.csv
+- Projects.csv
+- Upcoming projects.csv
 
-**Objective:** Create a visualization dashboard to understand the sales revenue of he bike rental service
+**Description:** This project focuses on creating visual dashboards for analysis. It requires organizing and combining the 5 CSV files into one structured table accessible for reporting and data visualization. The goal of the dashboard i to help manage the workforce, to better understand the financial risks of each project, and to monitor the project health more effectively.
+**Note:** The department budgets are set at 2-year intervals.
 
-**Results:**
+**Objective:** 
+- Create a visualization dashboard to understand the sales revenue of the bike rental service
+- Identify departments and projects in the red. Understand which departments or projects are over budget or underperforming.
+- Can a year's budget cover the project expense?
 
+**Results:** 
+
+Finalizing the dashboard revealed that only one project within the HR department is in the red by -$25,000. It is expected that all other projects' budgets will be in the clear with just a year's department budget.
+Recommendation:
+- Fund Reallocation: Although the HR department project is expected to go over budget, other departments are expected to have remaining capital after their project that can be redistributed to assist the HR department.
+- Re-evaluate project scope: Determine if there were features that the project can cut back on to remain within the department yearly budget, or if the project schedule could be delayed to the following year to raise more capital for the project.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
