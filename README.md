@@ -84,18 +84,18 @@
 
 **Code:**
 - SQL: Absentee_Datasheet.sql
-- Power Bi: Absentee_Dashboard.pbix
+- Power BI: Absentee_Dashboard.pbix
 
 **Dataset:**
 - Absenteeism_at_work.csv
 - compensation.csv
 - Reasons.csv
 
-**Description:** This project is focused on creating visualization dashboards on company absentees. So that the HR department can better understand the resources available to them.
+**Description:** The HR department requests a dashboard to be created so that they can better analyze the workforce absences. This project involves joining the 3 CSV files into one data table, but only containing the columns necessary to create the dashboard requested. After the table is prepared, it will be exported into Power BI for visualization.
 
 **Objective:** Create visualization dashboards for analysis and insights into the workforce's absence.
 
-**Results** Workforce tend to take a leave of absence on the first workday of the week. Especially, during the springtime for junior job positions. So the organization should be cautious of the lower staff on hand.
+**Results** What we noticed was that workers are more likely to take a leave of absence on a Monday, especially during the Spring time. Most of whom are junior position staff members. However, this can be due to the higher number of junior positions as compared to middle and senior management positions. HR should be prepared for a shortage in staff during this time and prepare accordingly.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Portfolio Project 5: Bike Rental Store Dashboard
@@ -112,6 +112,8 @@
 - bike_share_yr_0.csv
 - bike_share_yr_1.csv
 - cost_table.csv
+
+**Description:** The project consists of 3 CSV files that showcase the bike rental store's revenue for the 1st and 2nd years, as well as the cost for operating the service. Using SQL, the 3 files were joined together into a single table but only with the necessary columns needed to create the revenue dashboard. The table is then imported in Power BI for data visualization purposes.
 
 **Objective:** Create a visualization dashboard to understand the sales revenue of he bike rental service
 
