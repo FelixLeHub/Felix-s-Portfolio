@@ -33,10 +33,6 @@
   2. Should the parking lot space be increased?
   3. What trends can be seen from the data?
 
-**Process:**
-- Prepare the data table for dashboard creation via Microsoft SQL Server Management Studio
-- Import and create necessary dashboards to complete object
-
 **Results:** The dashboard reveals that revenue was increasing year by year, except in 2020 because the year hasn't ended yet. Although there is a trend indicating car space usage going up, the year to year increase are gradual and the hotel won't need to increase the parking space.
    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -53,11 +49,6 @@
 **Description:** The project focused on analyzing a dataset of mall customers. The dataset contains columns for CustomerID, Gender, Age, Annual Income, and Spending Score. This project involved loading the CSV file in Python to perform exploratory data analysis (EDA) using histograms, KDE plots, box plots, and scatter plots. Then, using KMean algorithm, I perform cluster analysis for univariate, bivariate, and multivariate variables to complete the objective. Creating summary statistics and visuals to identify the details of each cluster.
 
 **Objective:** Identify the most important shopping group based on age, income, and shopping score to assist the marketing team in forming a marketing strategy.
-
-**Process:**
-- Determine cluster analysis is required to achieve objective
-- Import required python library to complete analysis
-- Perform analysis to derive insights.
   
 **Results:**
 - Identified the most important cluster being the one with **high annual income and high spending scores**. This cluster has a **female majority**, meaning the marketing campaign should target products popular to this demographic to attract them.
@@ -87,9 +78,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Portfolio Project 4: HR Analytics: Absenteeism Dashboard
 
-**Skills:** Power Bi Dashboard, SQL
+**Skills:** Data Visualization, Dashboards
 
-**Tools:**
+**Tools:** Power BI, Microsoft SQL Server Management Studio
 
 **Code:**
 - SQL: Absentee_Datasheet.sql
@@ -100,35 +91,29 @@
 - compensation.csv
 - Reasons.csv
 
-**Description:** 
+**Description:** This project is focused on creating visualization dashboards on company absentees. So that the HR department can better understand the resources available to them.
 
-**Objective:** 
+**Objective:** Create visualization dashboards for analysis and insights into the workforce's absence.
 
-**Challenges:** 
-
-**Results:**
+**Results** Workforce tend to take a leave of absence on the first workday of the week. Especially, during the springtime for junior job positions. So the organization should be cautious of the lower staff on hand.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Portfolio Project 5: Bike Rental Store Dashboard
 
-**Skills:** Power Bi Dashboard, SQL
+**Skills:** Power BI Dashboard, SQL
 
-**Tools:**
+**Tools:** Power BI, Microsoft SQL Server Management Studio
 
 **Code:**
 - SQL: Project6.sql
-- Power Bi: BikeShop_pbix
+- Power BI: BikeShop_pbix
 
 **Dataset:** 
 - bike_share_yr_0.csv
 - bike_share_yr_1.csv
 - cost_table.csv
 
-**Description:** 
-
-**Objective:** 
-
-**Challenges:** 
+**Objective:** Create a visualization dashboard to understand the sales revenue of he bike rental service
 
 **Results:**
 
@@ -145,11 +130,7 @@
 
 **Dataset:** 
 
-**Description:** 
-
-**Objective:** 
-
-**Challenges:** 
+**Objective:** Create a visualization dashboard to understand the sales revenue of he bike rental service
 
 **Results:**
 
