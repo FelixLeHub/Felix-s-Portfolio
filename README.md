@@ -22,7 +22,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 
 ## Portfolio Projects
 
-### Hotel Power BI Dashboard
+### Hotel Revenue Dashboard
 
 **Skills:** Data Visualization, Dashboards
 
