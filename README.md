@@ -145,7 +145,7 @@ your pricing strategy without committing fully to a price that might turn out to
 **Tools:**
 
 **Code:** 
-- SQL: [ProjectOverviewDashboard_Datasheet.sql](ProjectOverviewDashboard_Datasheet.sql)
+- SQL: [ProjectOverviewDashboard_datasheet.sql](ProjectOverviewDashboard_datasheet.sql)
 - Dashboard: [ProjectOverviewDashboard.pbix](ProjectOverviewDashboard.pbix)
 - DashboardPicture: [ProjectOverviewDashboard.png](ProjectOverviewDashboard.png)
 
