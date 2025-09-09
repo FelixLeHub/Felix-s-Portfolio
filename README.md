@@ -14,11 +14,11 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 - About
 - Portfolio Projects:
   - [Hotel Revenue Dashboard](#hotel-revenue-dashboard)
-  - KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
-  - Data Cleaning
-  - HR Analytics: Absenteeism Dashboard
-  - Bike Rental Store Dashboard
-  - Project Overview Dashboard
+  - [KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign](#kmeans-cluster-analysis-to-segment-mall-customers-for-targeted-marketing-campaign)
+  - [Data Cleaning 2 Datasets](#data-cleaning-2-datasets)
+  - [HR Analytics: Absenteeism Dashboard](#hr-analytics:-absenteeism-dashboard)
+  - [Bike Rental Store Dashboard](#bike-rental-store-dashboard)
+  - [Project Overview Dashboard](#project-overview-dashboard)
 
 ## Portfolio Projects
 
