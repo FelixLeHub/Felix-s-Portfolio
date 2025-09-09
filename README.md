@@ -21,9 +21,9 @@
 **Tools:** Power BI, Microsoft SQL Server Management Studio
 
 **Code:** 
-- SQL: HotelRevenue_Dataset.sql
-- Dashboard: Hotel_Revenue_Dashboard.pbix
-- Dashboard Picture: HotelRevenue_Dashboard.png
+- SQL: [HotelRevenue_Dataset.sql](HotelRevenue_Dataset.sql)
+- Dashboard: [Hotel_Revenue_Dashboard.pbix](Hotel_Revenue_Dashboard.pbix)
+- Dashboard Picture: [HotelRevenue_Dashboard.png](HotelRevenue_Dashboard.png)
 
 **Dataset:** Revenue_History.xlsx
 
@@ -63,12 +63,12 @@
 **Tools:** Python, Pandas
 
 **Code:** 
-- CustomerCall_Clean.ipynb
-- Hotel_Booking_Clean.ipynb
+- Dataset 1: [CustomerCall_Clean.ipynb](CustomerCall_Clean.ipynb)
+- Dataset 2: [Hotel_Booking_Clean.ipynb](Hotel_Booking_Clean.ipynb)
 
 **Dataset:** 
-- Customer_List.xlsx
-- Hotel_Booking.csv
+- Dataset 1: [Customer_List.xlsx](Customer_List.xlsx)
+- Dataset 2: [Hotel_Booking.csv](Hotel_Booking.csv)
 
 **Objective:** Clean up messy call list data for future analysis
 
@@ -84,14 +84,14 @@
 **Tools:** Power BI, Microsoft SQL Server Management Studio
 
 **Code:**
-- SQL: Absentee_Datasheet.sql
-- Dashboard: Absentee_Dashboard.pbix
-- Dashboard Picture: Absentee_Dashboard.png
+- SQL: [Absentee_Datasheet.sql](Absentee_Datasheet.sql)
+- Dashboard: [Absentee_Dashboard.pbix](Absentee_Dashboard.pbix)
+- Dashboard Picture: [Absentee_Dashboard.png](Absentee_Dashboard.png)
 
 **Dataset:**
-- Absenteeism_at_work.csv
-- compensation.csv
-- Reasons.csv
+- [Absenteeism_at_work.csv](Absenteeism_at_work.csv)
+- [compensation.csv](compensation.csv)
+- [Reasons.csv](Reasons.csv)
 
 **Description:** The HR department requests a dashboard to be created so that they can better analyze the workforce absences. This project involves joining the 3 CSV files into one data table, but only containing the columns necessary to create the dashboard requested. After the table is prepared, it will be exported into Power BI for visualization.
 
@@ -107,14 +107,14 @@
 **Tools:** Power BI, Microsoft SQL Server Management Studio
 
 **Code:**
-- SQL: Bikeshop_datasheet.sql
-- Dashboard: BikeShop_Dashboard.pbix
-- Dashboard Picture: BikeShop_Dashboard.png
+- SQL: [Bikeshop_datasheet.sql](Bikeshop_datasheet.sql)
+- Dashboard: [BikeShop_Dashboard.pbix](BikeShop_Dashboard.pbix)
+- Dashboard Picture: [BikeShop_Dashboard.png](BikeShop_Dashboard.png)
 
 **Dataset:** 
-- bike_share_yr_0.csv
-- bike_share_yr_1.csv
-- cost_table.csv
+- [bike_share_yr_0.csv](bike_share_yr_0.csv)
+- [bike_share_yr_1.csv](bike_share_yr_1.csv)
+- [cost_table.csv](cost_table.csv)
 
 **Description:** The project consists of 3 CSV files that showcase the bike rental store's revenue for the 1st and 2nd years, as well as the cost for operating the service. Using SQL, the 3 files were joined together into a single table but only with the necessary columns needed to create the revenue dashboard. The table is then imported in Power BI for data visualization purposes.
 
@@ -145,18 +145,18 @@ your pricing strategy without committing fully to a price that might turn out to
 **Tools:**
 
 **Code:** 
-- SQL: ProjectOverviewDashboard_Datasheet.sql
-- Dashboard: ProjectOverviewDashboard.pbix
-- DashboardPicture: ProjectOverviewDashboard.png
+- SQL: [ProjectOverviewDashboard_Datasheet.sql](ProjectOverviewDashboard_Datasheet.sql)
+- Dashboard: [ProjectOverviewDashboard.pbix](ProjectOverviewDashboard.pbix)
+- DashboardPicture: [ProjectOverviewDashboard.png](ProjectOverviewDashboard.png)
 
 **Dataset:**
-- Completed_projects.csv
-- Departments.csv
-- Employees.csv
-- Head_shots.csv
-- Project_Assignments.csv
-- Projects.csv
-- Upcoming projects.csv
+- [Completed_projects.csv](Completed_projects.csv)
+- [Departments.csv](Departments.csv)
+- [Employees.csv](Employees.csv)
+- [Head_shots.csv](Head_shots.csv)
+- [Project_Assignments.csv](Project_Assignments.csv)
+- [Projects.csv](Projects.csv)
+- [Upcoming projects.csv](Upcoming projects.csv)
 
 **Description:** This project focuses on creating visual dashboards for analysis. It requires organizing and combining the 5 CSV files into one structured table accessible for reporting and data visualization. The goal of the dashboard i to help manage the workforce, to better understand the financial risks of each project, and to monitor the project health more effectively.
 **Note:** The department budgets are set at 2-year intervals.
