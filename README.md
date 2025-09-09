@@ -34,7 +34,7 @@
   2. Should the parking lot space be increased?
   3. What trends can be seen from the data?
 
-**Results:** The dashboard reveals that revenue was increasing year by year, except in 2020 because the year hasn't ended yet. Although there is a trend indicating car space usage going up, the year to year increase are gradual and the hotel won't need to increase the parking space.
+**Results:** The dashboard reveals that revenue was increasing year by year, except in 2020 because the year hasn't ended yet. Although there is a trend indicating car space usage going up, the year-to-year increase are gradual and the hotel won't need to increase the parking space.
    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
@@ -72,7 +72,7 @@
 
 **Objective:** Clean up messy call list data for future analysis
 
-**Challenges:** It was difficult to clean and format the phone number as it had lots of different symbols and unique characters. As well as, some number has phone extention that needed to be factored into formula when standardizing format.
+**Challenges:** It was difficult to clean and format the phone number as it had lots of different symbols and unique characters. As well as the phone extension that needed to be factored into the formula when standardizing the format.
 
 **Results:** Cleaned data ready for analysis
 
@@ -97,7 +97,7 @@
 
 **Objective:** Create visualization dashboards for analysis and insights into the workforce's absence.
 
-**Results** What we noticed was that workers are more likely to take a leave of absence on a Monday, especially during the Spring time. Most of whom are junior position staff members. However, this can be due to the higher number of junior positions as compared to middle and senior management positions. HR should be prepared for a shortage in staff during this time and prepare accordingly.
+**Results** What we noticed was that workers are more likely to take a leave of absence on a Monday, especially during the springtime. Most of whom are junior position staff members. However, this can be due to the higher number of junior positions as compared to middle and senior management positions. HR should be prepared for a shortage in staff during this time and prepare accordingly.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Bike Rental Store Dashboard
@@ -116,7 +116,7 @@
 - [bike_share_yr_1.csv](bike_share_yr_1.csv)
 - [cost_table.csv](cost_table.csv)
 
-**Description:** The project consists of 3 CSV files that showcase the bike rental store's revenue for the 1st and 2nd years, as well as the cost for operating the service. Using SQL, the 3 files were joined together into a single table but only with the necessary columns needed to create the revenue dashboard. The table is then imported in Power BI for data visualization purposes.
+**Description:** The project consists of 3 CSV files that showcase the bike rental store's revenue for the 1st and 2nd years, as well as the cost for operating the service. Using SQL, the 3 files were joined together into a single table, but only with the necessary columns needed to create the revenue dashboard. The table is then imported in Power BI for data visualization purposes.
 
 **Objective:** Create a visualization dashboard to understand the sales revenue of he bike rental service
 - Can the service increase its service pricing?
@@ -171,5 +171,5 @@ your pricing strategy without committing fully to a price that might turn out to
 Finalizing the dashboard revealed that only one project within the HR department is in the red by -$25,000. It is expected that all other projects' budgets will be in the clear with just a year's department budget.
 Recommendation:
 - Fund Reallocation: Although the HR department project is expected to go over budget, other departments are expected to have remaining capital after their project that can be redistributed to assist the HR department.
-- Re-evaluate project scope: Determine if there were features that the project can cut back on to remain within the department yearly budget, or if the project schedule could be delayed to the following year to raise more capital for the project.
+- Re-evaluate project scope: Determine if there were features that the project can cut back on to remain within the department's yearly budget, or if the project schedule could be delayed to the following year to raise more capital for the project.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
