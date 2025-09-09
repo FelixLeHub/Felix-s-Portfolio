@@ -109,7 +109,7 @@
 **Code:**
 - SQL: [Bikeshop_datasheet.sql](Bikeshop_datasheet.sql)
 - Dashboard: [BikeShop_Dashboard.pbix](BikeShop_Dashboard.pbix)
-- Dashboard Picture: [BikeRental_Dashboard.png](BikeShop_Dashboard.png)
+- Dashboard Picture: [BikeRental_Dashboard.png](BikeRental_Dashboard.png)
 
 **Dataset:** 
 - [bike_share_yr_0.csv](bike_share_yr_0.csv)
