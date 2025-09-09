@@ -64,11 +64,11 @@
 
 **Code:** 
 - Dataset 1: [CustomerCall_Clean.ipynb](CustomerCall_Clean.ipynb)
-- Dataset 2: [Hotel_Booking_Clean.ipynb](Hotel_Booking_Clean.ipynb)
+- Dataset 2: [HotelBooking_Clean.ipynb](HotelBooking_Clean.ipynb)
 
 **Dataset:** 
-- Dataset 1: [Customer_List.xlsx](Customer_List.xlsx)
-- Dataset 2: [Hotel_Booking.csv](Hotel_Booking.csv)
+- Dataset 1: [Customer_Call_List.xlsx](Customer_Call_List.xlsx)
+- Dataset 2: [Hotel_Bookings.csv](Hotel_Bookings.csv)
 
 **Objective:** Clean up messy call list data for future analysis
 
