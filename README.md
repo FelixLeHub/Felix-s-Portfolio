@@ -16,7 +16,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
   - [Hotel Revenue Dashboard](#hotel-revenue-dashboard)
   - [KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign](#kmeans-cluster-analysis-to-segment-mall-customers-for-targeted-marketing-campaign)
   - [Data Cleaning 2 Datasets](#data-cleaning-2-datasets)
-  - [HR Analytics: Absenteeism Dashboard](#HR-analytics:-absenteeism-dashboard)
+  - [HR Analytics: Absenteeism Dashboard](#HR-analytics:-bbsenteeism-dashboard)
   - [Bike Rental Store Dashboard](#bike-rental-store-dashboard)
   - [Project Overview Dashboard](#project-overview-dashboard)
 
