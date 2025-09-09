@@ -150,13 +150,13 @@ your pricing strategy without committing fully to a price that might turn out to
 - DashboardPicture: [ProjectOverviewDashboard.png](ProjectOverviewDashboard.png)
 
 **Dataset:**
-- [Completed_projects.csv](Completed_projects.csv)
-- [Departments.csv](Departments.csv)
-- [Employees.csv](Employees.csv)
-- [Head_shots.csv](Head_shots.csv)
-- [Project_Assignments.csv](Project_Assignments.csv)
-- [Projects.csv](Projects.csv)
-- [Upcoming_projects.csv](Upcoming_projects.csv)
+- [completed_projects.csv](completed_projects.csv)
+- [departments.csv](departments.csv)
+- [employees.csv](Eemployees.csv)
+- [Head_Shots.csv](Head_Shots.csv)
+- [project_assignments.csv](project_assignments.csv)
+- [projects.csv](projects.csv)
+- [upcoming projects.csv](upcoming projects.csv)
 
 **Description:** This project focuses on creating visual dashboards for analysis. It requires organizing and combining the 5 CSV files into one structured table accessible for reporting and data visualization. The goal of the dashboard i to help manage the workforce, to better understand the financial risks of each project, and to monitor the project health more effectively.
 **Note:** The department budgets are set at 2-year intervals.
