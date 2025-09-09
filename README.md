@@ -16,7 +16,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
   - [Hotel Revenue Dashboard](#hotel-revenue-dashboard)
   - [KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign](#kmeans-cluster-analysis-to-segment-mall-customers-for-targeted-marketing-campaign)
   - [Data Cleaning 2 Datasets](#data-cleaning-2-datasets)
-  - [HR Analytics: Absenteeism Dashboard](#hr-analytics:-absenteeism-dashboard)
+  - [HR Analytics: Absenteeism Dashboard](#HR-analytics:-absenteeism-dashboard)
   - [Bike Rental Store Dashboard](#bike-rental-store-dashboard)
   - [Project Overview Dashboard](#project-overview-dashboard)
 
@@ -33,7 +33,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 - Dashboard: [Hotel_Revenue_Dashboards.pbix](Hotel_Revenue_Dashboards.pbix)
 - Dashboard Picture: [HotelRevenue_Dashboard.png](HotelRevenue_Dashboard.png)
 
-**Dataset:** Revenue_History.xlsx
+**Dataset:** [Revenue_History.xlsx](Revenue_History.xlsx)
 
 **Description:** This project is focused on analyzing and visualizing a dataset of hotel revenue over the years. It involved importing the dataset into Microsoft SQL Server Management Studio to create the data warehouse that I would link to Power BI. With Power BI, I created dashboards that tell the story of the hotel's revenue over the years.
 
