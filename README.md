@@ -13,16 +13,16 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 ## Table of Contents
 - [About](#about)
 - Portfolio Projects:
-  - [Hotel Revenue Dashboard](#hotel-revenue-dashboard)
-  - [KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign](#kmeans-cluster-analysis-to-segment-mall-customers-for-targeted-marketing-campaign)
-  - [Data Cleaning 2 Datasets](#data-cleaning-2-datasets)
-  - [HR Analytics Absenteeism Dashboard](#hr-analytics-absenteeism-dashboard)
-  - [Bike Rental Store Dashboard](#bike-rental-store-dashboard)
-  - [Project Overview Dashboard](#project-overview-dashboard)
+  - [Power BI Hotel Revenue Dashboard](#power-bi-hotel-revenue-dashboard)
+  - [Python KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign](#python-kmeans-cluster-analysis-to-segment-mall-customers-for-targeted-marketing-campaign)
+  - [Python Data Cleaning 2 Datasets](#python-data-cleaning-2-datasets)
+  - [Power BI HR Analytics Absenteeism Dashboard](#power-bihr-analytics-absenteeism-dashboard)
+  - [Power BI Bike Rental Store Dashboard](#power-bi-bike-rental-store-dashboard)
+  - [Power BI Project Overview Dashboard](#power-bi-project-overview-dashboard)
 
 ## Portfolio Projects
 
-### Hotel Revenue Dashboard
+### Power BI Hotel Revenue Dashboard
 
 **Skills:** Data Visualization, Dashboards
 
@@ -45,7 +45,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 **Results:** The dashboard reveals that revenue was increasing year by year, except in 2020 because the year hasn't ended yet. Although there is a trend indicating car space usage going up, the year-to-year increase are gradual and the hotel won't need to increase the parking space.
    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
+### Python KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
 
 **Skills:** Exploratory Data Analysis, KMeans Algorithm, Cluster Analysis (Univariate, Bivariate, Multivariate clusters)
 
@@ -64,7 +64,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 - There is also an opportunity to market popular products on sale for the cluster with low annual income but high spending score.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Data Cleaning 2 Datasets
+### Python Data Cleaning 2 Datasets
 
 **Skills:** Data Cleaning
 
@@ -85,7 +85,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 **Results:** Cleaned data ready for analysis
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### HR Analytics Absenteeism Dashboard
+### Power BI HR Analytics Absenteeism Dashboard
 
 **Skills:** Data Visualization, Dashboards
 
@@ -108,7 +108,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 **Results** What we noticed was that workers are more likely to take a leave of absence on a Monday, especially during the springtime. Most of whom are junior position staff members. However, this can be due to the higher number of junior positions as compared to middle and senior management positions. HR should be prepared for a shortage in staff during this time and prepare accordingly.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Bike Rental Store Dashboard
+### Power BI Bike Rental Store Dashboard
 
 **Skills:** Power BI Dashboard, SQL
 
@@ -146,7 +146,7 @@ leaning towards the lower or higher end of the suggested increase.
 your pricing strategy without committing fully to a price that might turn out to be too high.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Project Overview Dashboard
+### Power BI Project Overview Dashboard
 
 **Skills:** Power BI Dashboard, SQL, Data Organization
 
