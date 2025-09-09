@@ -13,7 +13,7 @@ I enjoy solving problems with data, whether it's optimizing operations, identify
 ## Table of Contents
 - About
 - Portfolio Projects:
-  - Hotel Revenue Dashboard
+  - Hotel Revenue Dashboard #hotel-revenue-dashboard
   - KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign
   - Data Cleaning
   - HR Analytics: Absenteeism Dashboard
