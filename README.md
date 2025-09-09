@@ -11,7 +11,7 @@ Within this portfolio, I've demonstrated my skill as an analyst by tackling diff
 I enjoy solving problems with data, whether it's optimizing operations, identifying growth opportunities, or simplifying complex information into clear, visual stories. It's comforting to know that the decisions made were ones backed by hard data.
 
 ## Table of Contents
-- About
+- [About](#about)
 - Portfolio Projects:
   - [Hotel Revenue Dashboard](#hotel-revenue-dashboard)
   - [KMeans Cluster Analysis to Segment Mall Customers For Targeted Marketing Campaign](#kmeans-cluster-analysis-to-segment-mall-customers-for-targeted-marketing-campaign)
